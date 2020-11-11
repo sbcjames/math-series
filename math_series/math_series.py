@@ -21,3 +21,4 @@ def lucas(nth):
   else:
     return lucas(nth-1)+lucas(nth-2)
 
+sum_series
